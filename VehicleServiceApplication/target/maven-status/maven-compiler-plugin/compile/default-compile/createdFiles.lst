@@ -1,0 +1,17 @@
+com\cg\VehicleServiceApplication\repository\BookingDetailsRepository.class
+com\cg\VehicleServiceApplication\service\impl\AdminService.class
+com\cg\VehicleServiceApplication\VehicleServiceApplication.class
+com\cg\VehicleServiceApplication\repository\AdminRepository.class
+com\cg\VehicleServiceApplication\controller\CustomerController.class
+com\cg\VehicleServiceApplication\entities\Admin.class
+com\cg\VehicleServiceApplication\entities\Customer.class
+com\cg\VehicleServiceApplication\repository\CustomerRepository.class
+com\cg\VehicleServiceApplication\service\impl\CustomerService.class
+com\cg\VehicleServiceApplication\controller\AdminController.class
+com\cg\VehicleServiceApplication\entities\VehicleServices.class
+com\cg\VehicleServiceApplication\entities\BookingDetails.class
+com\cg\VehicleServiceApplication\exception\InvalidBooking.class
+com\cg\VehicleServiceApplication\repository\VehicleServicesRepository.class
+com\cg\VehicleServiceApplication\service\IAdminService.class
+com\cg\VehicleServiceApplication\service\ICustomerService.class
+com\cg\VehicleServiceApplication\exception\RestExceptionHandler.class
